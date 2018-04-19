@@ -1,14 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 import java.util.Scanner;
-import labs.AEScipher;
 
 /**
- *
+ * file: Driver.java
+ * author: Sri Manjusha Tella
+ * course: MSCS 630
+ * assignment: lab 5
+ * due date: April 18th, 2018
+ * This class tests the implementation of the AEScipher
  * @author TSM
  */
 public class Driver {
