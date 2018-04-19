@@ -1,18 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package labs;
-
-import static labs.AEScipher.AESAddKey;
 
 /**
  * file: AEScipher.java
  * author: Sri Manjusha Tella
  * course: MSCS 630
- * assignment: lab 4
- * due date: April 4th, 2018
+ * assignment: lab 5
+ * due date: April 18th, 2018
  * @author TSM
  */
 public class AEScipher {
