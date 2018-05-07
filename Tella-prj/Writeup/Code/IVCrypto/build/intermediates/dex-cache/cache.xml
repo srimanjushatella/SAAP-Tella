@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\95b640bdd1440830b98b55aa0cff59d53337eb39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d3e8b3587c82e19317e1656a5d9b956ae3351b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\7b4de19dc7527a9227e33d88c628b8ba45c2f78a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="17c2586c675b0552212b5ca09bfab4537511bcd6">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_951d78ff7b23545f0fb5f7a86d8558e21cfde139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\60bfa1b459aef87f73754b2ce3f5ff01d9cfae9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8c4c48f80035175db68704c489538c8d4a3c5fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b88a132ecbbecece90424524832599232dd2a5f">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_74bddc13a8a1a6372a386055831f141d5ce53709\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\6dd6b4412c8a9a707892c761628b6806b830f574\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dad144b382d9652ff70313ca34d9c6a7e11a6533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\48f5f9ab1358e00febfb5302fd2dc91828c1aa3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e70adb51bdfa6df92c022e3b7d790c8b22f6f810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\df0276496aa67cef515d919005b456c09fdf8597\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33c7076290192d6ddb3511b708da09af3e050c94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_e7b21a0b6c8629cb88f05eb7adce0b7accfb1c2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\7dc4c4398a01d80e53946cd702e60eac3b16df79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22b550444697b7ea6712750c982f921b9f9ca5ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\78dd0f9b88abcf258c6fa7c746b14f362883691e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8d8058de6ea31f867684b6d24fc80f0b951fad1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\c4262d4e532b0c03e49c34557ecec1f861792e20\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86feedcb4560167b678c411f515edde6989bdbfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\c34cf7cc73c679b72a51e8e74c6166cfdf90ae67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9a693fee7c65dd2656fe7c1a63ba825e590ce1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\eb3b7fae69585b6658edf2301874ff6909da0d97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f198e2cc54351ae707e5e4cb8b4905799c787560\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_516c79ef77aa290a897be7ac2558b4a8aea4eee1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\1184fdc95e2d1eb936c237d80a42862c29ccb33c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1d6ae0616bde2f3713ec971e17f5f08222f4fdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TSM\.android\build-cache\08733e23202ee0844da7f4b6882467a6d522e226\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\TSM\Downloads\IVCrypto\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e18dc142e27072f8be8d63bd0a745256add363a\classes.dex" />
+    </item>
+
+</items>
